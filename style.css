@@ -1,0 +1,178 @@
+body {
+    background-image: url("pictures/katie.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.background {
+    background: center url("pictures/dolar.jpg") no-repeat;
+    min-height: 60vh;
+}
+
+.result {
+    font-weight: bold;
+    padding: auto;
+    
+}
+
+.h1 {
+    
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: left;
+}
+
+#calculate {
+    transition-duration: 0.4s;
+    color: #ECECEB;
+    border: 1px solid #04f9ac;
+    background-color: #23424A;
+}
+
+#calculate:hover {
+    border: 1px solid rgb(17, 16, 16);
+    background-color: red;
+    color: rgb(249, 246, 246);
+    transition-duration: 0.4s;
+}
+
+#myChart {
+    border: solid 1px;
+    height: 100rem;
+    text-align: center;
+}
+
+#mych {
+    border: solid 1px;
+    height: 100rem;
+    text-align: center;
+}
+
+#logo {
+    border: 1px solid black;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+body .container .row .containe {
+    color: rgb(249, 249, 250);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-color: rgb(239, 243, 243);
+}
+
+body .container .row .container .row {
+    color: aliceblue;
+}
+.theme-bg-secondary{
+    background-color: #167D7F;
+}
+.img-fluid{
+    border: 1px solid black;
+    border-radius: 15px;
+    display: inline-block;
+
+}
+.text{
+    color: white;
+    
+}
+
+.icon-linkedin:before{
+    color: blue;
+    background-color: white;
+    font-size: 110%;
+}
+.icon-linkedin:hover{
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+.icon-facebook-rect:before{
+    color: rgb(66 103 178);
+    background-color: white;
+    font-size: 110%;
+    
+}
+.icon-facebook-rect:hover{
+    background-color: rgb(255, 255, 255);
+}
+.icon-instagram:before{
+    color: rgb(228,64,95);
+    background-color: rgb(255, 255, 255);
+    font-size: 110%;
+}
+.icon-instagram:hover{
+    background-color: white;
+}
+.table{
+    background-color: #167D7F;
+}
+.input-group-text{
+    background-color: #98D7C2;
+    
+}
+.form-control{
+    background-color: #fbfffc;
+}
+.thead{
+    color:white;
+}
+#inputGroup{
+    color: #ECECEB;
+    border: 1px solid #04f9ac;
+    background-color: #23424A;
+}
+#inputGroup:hover{
+    border: 1px solid rgb(17, 16, 16);
+    background-color: red;
+    color: rgb(249, 246, 246);
+    transition-duration: 0.4s;
+}
+#inputGrou{
+    color: #ECECEB;
+    border: 1px solid #04f9ac;
+    background-color: #23424A;
+}
+#inputGrou:hover{
+    border: 1px solid rgb(17, 16, 16);
+    background-color: red;
+    color: rgb(249, 246, 246);
+    transition-duration: 0.4s;
+}
+#add{
+    color: black;
+}
+.con{
+    background-color: #3B707D;
+    color: #ECECEB;
+    
+}
+
+.output{
+    text-align: center;
+    size: 20px;
+    width: 100%;
+
+}
+body .container .row .con .row .input-group-text{
+    color: aqua;
+    background: rgb(10, 10, 10);
+    text-align: center;
+    height: 55px;
+}
+#press{
+    color: #ECECEB;
+    border: 1px solid #04f9ac;
+    background-color: #23424A;
+}
+#press:hover{
+    border: 1px solid rgb(17, 16, 16);
+    background-color: red;
+    color: rgb(249, 246, 246);
+    transition-duration: 0.4s;
+}
